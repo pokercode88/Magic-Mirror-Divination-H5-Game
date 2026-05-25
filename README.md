@@ -59,13 +59,16 @@
 - ✅ High-performance JS / HTML5 engine
 - ✅ Admin panel for easy management
 - ✅ Production-ready, stable system
-- 
+### 获取完整源码
+
+如需获取**完整的魔镜占卜H5小游戏源码 + 部署文档 + AI接口配置**，请联系：
+
+| 渠道 | 账号 |
+|:---|:---|
+| **Telegram** | @alibabama401 |
+| **Email** | ttpoker733@gmail.com |
+
 ## 📸 界面截图 | Screenshots
-
-> **请将你的游戏截图拖拽到下方**（建议：占卜主页、AI对话、结果展示各一张）
-
-| 占卜主页 | AI对话 | 结果展示 |
-|:---:|:---:|:---:|
 
 ![占卜页5-今日方位](https://github.com/user-attachments/assets/cbbdb693-158c-496a-8fbd-bca9fdd8ab24)
 ![占卜页4-方位初始](https://github.com/user-attachments/assets/2e8e3af0-f086-4e16-8e7e-d678769d3a5c)
@@ -80,16 +83,8 @@
 
 ---
 
-## 🚀 快速体验 | Quick Start
 
-### 获取完整源码
 
-如需获取**完整的魔镜占卜H5小游戏源码 + 部署文档 + AI接口配置**，请联系：
-
-| 渠道 | 账号 |
-|:---|:---|
-| **Telegram** | @alibabama401 |
-| **Email** | ttpoker733@gmail.com |
 
 ---
 
